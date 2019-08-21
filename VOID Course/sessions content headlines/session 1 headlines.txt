@@ -1,0 +1,27 @@
+-                                           session 1
+
+
+1-web connected PCs for transfer files & info
+
+web design & develop
+broser=>html css && serve =>php database
+
+
+html structure / <p> <h1> <br>  
+
+server excute programming php stand for what
+what is programming&history start with binary why binary & why php created specially for it
+
+2-host&domain&server=> computer 
+3-localhost xampp apache (when using xampp)
+
+                     ---------------visual studio code-------------------
+5-echo
+variables types
+arthimatic 
+concatination
+if statment & while loop
+------------------------------------------
+task
+
+

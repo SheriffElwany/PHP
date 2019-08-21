@@ -1,0 +1,13 @@
+-                                       session 2
+1-form
+2-action
+3-method start with post
+4-input echo the input to screen store input in a variable
+5-login no database fixed vars with if statment => if statment  (task) practical validation {isset}
+6-simple calculator(task) explain without practical
+
+
+signup (task)
+when user input name and passs print them in the screen.
+
+//get take value from t store it in a variable

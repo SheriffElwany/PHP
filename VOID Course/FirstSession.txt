@@ -1,0 +1,25 @@
+xampp - htdocs
+server & host (local) & apache (google them)
+handle request
+php scope <?php  ?>
+echo
+form
+action (request) & method(get-post)
+
+
+submit button that handle to html page has only hello.
+
+textbox with submit button send data with POST to php page && echo the wrriten name using the get and
+ put them in var then echo it
+
+first form name  and then echo it.
+
+second name and number and echo them with <br> in php ===> echo'<br>'; 
+
+ if statment 
+
+isset validate that the user fill the Textbox.
+
+third (first) Task username & password with validation and echo them
+
+

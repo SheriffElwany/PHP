@@ -1,0 +1,14 @@
+-                                          session 3
+
+1-************************************Database*********************************
+
+1-phpmyadmin
+2-create database with tables 
+3-primary key.
+4- connection wiht databse
+5-query
+6-log in with database
+
+signup & login(task)
+
+//function

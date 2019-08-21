@@ -1,0 +1,7 @@
+-                                          session 4
+
+-singup & login recap erorrs
+
+validation isset
+
+isset sessions
